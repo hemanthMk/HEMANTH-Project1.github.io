@@ -10,7 +10,7 @@
    <section id="main">
      <nav>
        <a href="#" class="logo">
-         <img src="project dj1.jpg " alt= "The Logo Of Project beast">
+         <img src="project dj1.jpg " alt= "The Logo Of Project2 beast">
 
       </a>
 
@@ -41,4 +41,5 @@
     </div>
   </body>
 </html>
+
 
